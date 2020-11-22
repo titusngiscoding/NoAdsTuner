@@ -11,7 +11,7 @@ def processAudio():
     print ("Audio recording complete , Play Audio")
     sd.play(myrecording, fs)
     sd.wait()
-    print ("Play Audio Complete")
+    print ("Play Audio Complete")   
 
 
 def main():
